@@ -1,0 +1,46 @@
+body {
+  background-color: olivedrab;
+  margin: 0;
+}
+
+.header {
+  background-color: darkolivegreen;
+  padding: 0.5rem 5rem;
+}
+
+.title {
+  padding: 2rem;
+  background: white;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.header a,
+.card h2 a {
+  color: maroon;
+  text-decoration: none;
+}
+
+.card {
+  border: 5px solid darkolivegreen;
+}
+
+.posts {
+  padding: 0.5rem 5rem;
+}
+
+.card-header {
+  background-color: darkolivegreen;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+}
+
+.card-header h2 {
+  margin: 0;
+}
+
+.card-body {
+  padding: 0.5rem 1rem;
+}

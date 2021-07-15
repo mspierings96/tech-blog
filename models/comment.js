@@ -32,11 +32,11 @@ Comment.init(
         key: "id",
       },
     },
-    date: {
-      type: DataTypes.DATEONLY,
-      allowNull: false,
-      defaultValue: sequelize.NOW,
-    },
+    // date: {
+    //   type: DataTypes.DATEONLY,
+    //   allowNull: false,
+    //   defaultValue: sequelize.NOW,
+    // },
   },
   {
     sequelize,
