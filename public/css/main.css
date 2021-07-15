@@ -9,8 +9,8 @@ body {
 }
 
 .title {
-  padding: 2rem;
-  background: white;
+  padding: 1rem 2rem;
+  background: honeydew;
   border-radius: 10px;
   display: inline-block;
 }
