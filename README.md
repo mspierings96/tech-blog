@@ -19,7 +19,7 @@ Installation:
 
 Screenshot of Site:
 
-<img src="https://github.com/mspierings96/code-quiz/blob/main/images/code-quiz.jpg" width="300">
+<img src="https://github.com/mspierings96/tech-blog/blob/main/images/techblog.jpg" width="300">
 
 
 Live Link: https://mspierings96.github.io/tech-blog/
